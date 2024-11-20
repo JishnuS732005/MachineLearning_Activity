@@ -1,9 +1,3 @@
-3. Evaluating Marketing Strategies  
-Scenario: A marketing team has created a decision tree to evaluate different advertising strategies for a new product launch.  
-Question: How would you assess the effectiveness of the current decision tree structure? What specific metrics or outcomes
-          would you analyze to determine if any adjustments are necessary?
-
-
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import confusion_matrix, classification_report
