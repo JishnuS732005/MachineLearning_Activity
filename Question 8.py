@@ -1,9 +1,3 @@
-8. Email Classification  
-Scenario: You are tasked with building a spam filter using SVM to classify emails as either "spam" or "not spam."  
-Question: How would you decide between using a linear SVM and a non-linear SVM for this classification problem? 
-          What features would you consider important for your model?
-
-
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
