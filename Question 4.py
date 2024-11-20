@@ -1,8 +1,3 @@
-4. Financial Investment Decisions  
-Scenario: An investment firm uses a decision tree to analyze potential investment opportunities based on market trends and economic indicators.  
-Question: What process would you follow to update the decision tree as market conditions change? How would you visualize these changes
-          for clarity among team members?
-
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier, plot_tree
 import matplotlib.pyplot as plt
