@@ -1,9 +1,3 @@
-"""11.Weather Prediction  
-Scenario: You create a simple linear regression model to predict daily 
-temperatures based on historical weather data.  
-Question: If your predictions are consistently inaccurate because they
-do not capture seasonal variations, what does this indicate about bias? How might you improve your model's accuracy?"""
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
