@@ -1,8 +1,3 @@
-5. Disease Diagnosis  
-Scenario: A healthcare provider uses patient data (symptoms, age, medical history) to diagnose diseases using K-NN.  
-Question: What considerations should you take into account when choosing the value of $$ K $$? How would you ensure that the model is
-          robust against overfitting?
-
 import pandas as pd
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.neighbors import KNeighborsClassifier
