@@ -1,9 +1,3 @@
-"""9. Real Estate Price Prediction  
-Scenario: A real estate company wants to predict house prices based on features like location, size, and number of bedrooms.  
-Question: If your model's R-squared value is 0.85, what does this indicate about the model's performance? Are there any limitations
-          to using R-squared as the sole metric?"""
-
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
