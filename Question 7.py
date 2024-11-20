@@ -1,9 +1,3 @@
-7. Credit Risk Assessment  
-Scenario: A bank uses logistic regression to determine the probability of a loan applicant defaulting on their loan based on their credit score,
-income level, and employment status.  
-Question: How would you interpret the coefficients of your logistic regression model in this context?
-          What implications do these coefficients have for risk assessment?
-
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
