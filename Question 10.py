@@ -1,10 +1,3 @@
-10. Gene Expression Analysis  
-Scenario: In a biological study, researchers have collected gene expression data from thousands 
-of genes across multiple samples.  
-Question: How would PCA help in identifying key patterns or variations in gene expression?
-          What challenges might arise when interpreting the principal components?
-
-
 import pandas as pd
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
