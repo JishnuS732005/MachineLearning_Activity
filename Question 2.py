@@ -1,7 +1,3 @@
-2. Time Series Data  
-Scenario: You have monthly data on electricity consumption over several years and want to predict future consumption based on trends and seasonal patterns.  
-Question: Can linear regression be effectively used in this scenario? If so, how would you incorporate time as a variable in your model?
-
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
