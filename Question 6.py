@@ -1,9 +1,3 @@
-6. Image Classification**  
-  Scenario: You are developing an application that classifies images of animals (e.g., cats vs. dogs) using K-NN.  
-Question: Given the high dimensionality of image data, what techniques could you use to optimize the performance of K-NN? 
-          How would you measure the accuracy of your model?
-
-
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split, cross_val_score
