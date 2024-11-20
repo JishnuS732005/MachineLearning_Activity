@@ -1,10 +1,3 @@
-12. Predicting Credit Card Fraud
-Scenario: A financial institution is using logistic regression to identify fraudulent
-transactions based on transaction amount, location, and user behavior.  
-Question: In setting up your data pipeline, how would you ensure that the model is trained
-on balanced classes? What techniques could you employ to address class imbalance?
-
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
