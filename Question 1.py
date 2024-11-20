@@ -1,7 +1,3 @@
-1.Analyzing Student Performance:  
-Scenario: You are analyzing factors that affect student performance in a standardized test. You collect data on study hours, attendance rates, and socioeconomic background.  
-Question: How would you set up your linear regression model? What considerations would you make regarding the interpretation of coefficients in this context?
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
